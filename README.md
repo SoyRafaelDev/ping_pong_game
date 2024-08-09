@@ -12,7 +12,8 @@ Este es un juego de Pong clásico implementado en Java 21. El proyecto es una si
 
 ## Capturas de Pantalla
 
-(Agrega aquí capturas de pantalla del juego en ejecución)
+![Captura de pantalla 2024-08-09 025228](https://github.com/user-attachments/assets/4a077f2f-1d9b-4164-92f0-95ac67f47c50)
+
 
 ## Requisitos del Sistema
 
