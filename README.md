@@ -10,7 +10,7 @@ Este es un juego de Pong clásico implementado en Java 21. El proyecto es una si
 - Movimiento y colisión de la pelota.
 - Interfaz gráfica simple y eficiente usando `javax.swing` y `java.awt`.
 
-## Capturas de Pantalla
+## Interface 
 
 ![Captura de pantalla 2024-08-09 025228](https://github.com/user-attachments/assets/4a077f2f-1d9b-4164-92f0-95ac67f47c50)
 
@@ -33,17 +33,21 @@ Jugador 1:
 
 W: Mover la paleta hacia arriba.
 S: Mover la paleta hacia abajo.
+
 Jugador 2:
 
 ↑: Mover la paleta hacia arriba.
 ↓: Mover la paleta hacia abajo.
+
 Estructura del Código
+
 PongGame.java: La clase principal que inicia el juego.
 GameFrame.java: Configura la ventana del juego.
 GamePanel.java: Maneja el panel del juego, incluyendo la lógica de dibujo, movimiento y colisiones.
 Paddle.java: Representa las paletas controladas por los jugadores.
 Ball.java: Representa la pelota en el juego.
 Score.java: Gestiona y dibuja el marcador del juego.
+
 Mejoras Futuras
 Algunas ideas para mejorar el juego:
 
@@ -51,5 +55,6 @@ Implementar modos de juego adicionales (por ejemplo, un solo jugador contra la I
 Agregar efectos de sonido.
 Mejorar la interfaz gráfica.
 Añadir niveles de dificultad.
+
 Contribuciones
 ¡Las contribuciones son bienvenidas! Si deseas mejorar el código, por favor haz un fork de este repositorio y envía un pull request.
